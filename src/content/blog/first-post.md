@@ -39,4 +39,4 @@ https://istanbul-korsan-taksi.renderforestsites.com/
 <br>
 https://hemenkredi.org/
 <br>
-[contact to Esenyurt Korsan Taksi](https://mavitaksi.com/esenyurt-korsan-taksi)
+https://mavitaksi.com/esenyurt-korsan-taksi
