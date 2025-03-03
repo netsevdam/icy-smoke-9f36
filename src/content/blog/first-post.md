@@ -24,7 +24,7 @@ heroImage: "/blog-placeholder-3.jpg"
 <a href="https://1kamp.com/istanbul-korsan-taksi/">Korsan Taksi</a>
 <a href="https://istanbul-korsan-taksi.renderforestsites.com/">Korsan Taksi</a>
 <a href="https://docs.google.com/document/d/1xG01ZyihntDK4SB-9fnvQAAt0u0xhTgvgBHn4wWO8a4/edit?tab=t.whnydogxijzr">Korsan Taksi</a>
-<a href="hhttps://bedavacarlar2020.blogspot.com/2025/01/esenyurt-korsan-taksi.html">Korsan Taksi İstanbul</a>
+<a href="https://bedavacarlar2020.blogspot.com/2025/01/esenyurt-korsan-taksi.html">Korsan Taksi İstanbul</a>
 <a href="https://mavitaksi.blogspot.com/">Korsan Taksi İstanbul</a>
 <a href="https://hemenkredi.org/">Korsan Taksi</a>
 <a href="https://wpaktuel.com">Korsan Taksi İstanbul</a>
