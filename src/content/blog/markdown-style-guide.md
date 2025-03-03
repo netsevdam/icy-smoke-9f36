@@ -1,6 +1,6 @@
 ---
-title: "Markdown Style Guide"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
+title: "Korsan Taksi İstanbul"
+description: "İstanbul'un her yerine 7x24 konforlu,temiz korsan taksi hizmeti.Şehir içi ve şehir dışı seyehatlerinizde güvenli ve uygun taksi. 0542 515 51 54."
 pubDate: "Jun 19 2024"
 heroImage: "/blog-placeholder-1.jpg"
 ---
