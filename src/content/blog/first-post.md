@@ -1,6 +1,6 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
+title: "İstanbul Korsan Taksi Telefon Numarası"
+description: "İstanbul Korsan Taksi hizmetimizle kolayca ulaşım sağlamak isteyenler 05310 220 30 75 numarasıyla bize her an ulaşabilir. Güvenli ve konforlu bir yolculuk için ihtiyaç duyduğunuz her an, profesyonel ekibimizle yanınızdayız."
 pubDate: "Jul 08 2022"
 heroImage: "/blog-placeholder-3.jpg"
 ---
