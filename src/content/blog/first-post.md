@@ -16,3 +16,16 @@ Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut c
 Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
 [contact to Mavi Korsan Taksi](https://www.youtube.com/@mavikorsantaksi) or [connect to Mavi Korsan Taksi](https://www.facebook.com/mavikorsantaksi) or [contact to Esenyurt Korsan Taksi](https://koctaksi.com)
 https://www.instagram.com/mavikorsantaksi/
+https://docs.google.com/document/d/1xG01ZyihntDK4SB-9fnvQAAt0u0xhTgvgBHn4wWO8a4/edit?tab=t.whnydogxijzr
+https://bedavacarlar2020.blogspot.com/2025/01/esenyurt-korsan-taksi.html
+https://kctaksi.wixsite.com/koctaksi
+https://sites.google.com/view/korsanistanbultaksi/
+https://korsantaksiistanbulcom.wordpress.com/
+https://askbrncom.blogspot.com/
+https://esenyurt-korsan-taksi.blogspot.com/
+https://esenyurt-korsan-taksi-hizmeti.blogspot.com/
+http://mavitaksi.godaddysites.com/
+https://mavitaksi.blogspot.com/
+https://1kamp.com/istanbul-korsan-taksi/
+https://istanbul-korsan-taksi.renderforestsites.com/
+https://hemenkredi.org/
