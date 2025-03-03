@@ -40,4 +40,3 @@ heroImage: "/blog-placeholder-3.jpg"
 [Hemen Kredi Al](https://hemenkredi.org/)
 <br>
 [Korsan Taksi Numarası](https://mavitaksi.com/esenyurt-korsan-taksi)
-https://mavitaksi.com/esenyurt-korsan-taksi
