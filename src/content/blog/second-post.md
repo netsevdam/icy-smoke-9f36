@@ -34,7 +34,7 @@ Korsan taksi yolcu taşımacılığı yıllardır dünyanın her yerinde vardır
 Korsan Taksi taşıma ruhsatı olmadan kayıtsız şekilde yolcu taşıma işlemidir. Korsan taksiciler genellikle tecrübeli şoförlerden oluşur. Şoförlerin kendi araçlarıyla veya ticaret yapmak için tahsis ettikleri araçlarla yerine getirdiği taşıma eylemidir. Korsan taksiler vergi levhasına kayıtlı olmadan iş yaptığı için diğer taksilere göre daha uygun fiyatlı olarak çalışmaktadır. Korsan taksi de diğer taksilerle aynı işi yapmakta, yolculara taşıma hizmeti vermektedir. Gerek şehir içi merkez yerlerde gerek şehir içinde ilçeler arasında gerekse de şehirlerarası taşıma işini yerine getirmektedir.
 
 [Korsan Taksi Araçları](https://korsantaksiistanbul.com/)
-Korsan Taksi Araçları, Normal taksilere göre daha konforlu ve daha yeni modellerden oluşur Korsan taksi hizmetinde kullanılan araçlar, üst segment ve bakımlı araçlardır. Özel marka/model talepleriniz varsa, geniş araç filomuz ile size özel çözümler sunabiliyoruz. Lüks korsan taksi hizmetimiz ile konforlu bir seyahat deneyimi yaşayabilirsiniz.
+Normal taksilere göre daha konforlu ve daha yeni modellerden oluşur Korsan taksi hizmetinde kullanılan araçlar, üst segment ve bakımlı araçlardır. Özel marka/model talepleriniz varsa, geniş araç filomuz ile size özel çözümler sunabiliyoruz. Lüks korsan taksi hizmetimiz ile konforlu bir seyahat deneyimi yaşayabilirsiniz.
 
 Korsan taksilere olan rağbet, beraberinde rekabetide getiriyor, en uygun fiyat, en kaliteli hizmet, en hızlı ulaşım, en yakın taksi, en uygun taksi vb gibi. dolayısı ile korsan taksiler daha üst model ve daha deneyimli şoförler çalıştırmak zorundadırlar.
 
