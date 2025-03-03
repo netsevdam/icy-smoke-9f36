@@ -5,7 +5,7 @@ pubDate: "Jun 19 2024"
 heroImage: "/blog-placeholder-1.jpg"
 ---
 
-İstanbul'un her yerinden 7 gün 24 saat Black Korsan Taksi'yi çağırabilirsiniz. Şehir içi ve şehirler arası seyehatlerinizde güvenli ve uygun hizmet. Pet Transfer (Evcil hayvan dostlarımızı güvenle taşıyoruz.). Düğün, davet, konvoy, asker uğurlama gibi özel günlerinizde hizmetinizdeyiz. Havaalanı yolcu transfer hizmeti. Üst segment, temiz, konforlu araçlarımız ve kaliteli şoförlerimizle tüm seyehatlerinize [Korsan Taksi İstanbul](https://www.youtube.com/@mavikorsantaksi) olarak eşlik ediyoruz.
+İstanbul'un her yerinden 7 gün 24 saat Black Korsan Taksi'yi çağırabilirsiniz. Şehir içi ve şehirler arası seyehatlerinizde güvenli ve uygun hizmet. Pet Transfer (Evcil hayvan dostlarımızı güvenle taşıyoruz.). Düğün, davet, konvoy, asker uğurlama gibi özel günlerinizde hizmetinizdeyiz. Havaalanı yolcu transfer hizmeti. Üst segment, temiz, konforlu araçlarımız ve kaliteli şoförlerimizle tüm seyehatlerinize [Korsan Taksi İstanbul](https://korsantaksiistanbul.com) olarak eşlik ediyoruz.
 
 #### Output
 
