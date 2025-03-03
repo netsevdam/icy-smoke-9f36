@@ -61,4 +61,4 @@ Korsan taksi'ye ulaşmak çok kolaydır. Tek yapmanız gereken mobil cihazınız
 Mavi Korsan Taksi’ye kolayca ulaşabilir ve rezervasyon yapabilirsiniz. 7/24 hizmet veren Telefon numaramız 05102203075 veya WhatsApp hattımıza mesaj atarak anında fiyat bilgisi alabilir ve aracınızı çağırabilirsiniz.
 
 İstanbul korsan taksi telefon numaralarımıza aşağıdan ulaşabilirsiniz:
-[connect to Mavi Korsan Taksi](https://www.youtube.com/@mavikorsantaksi)
+[contact to Mavi Korsan Taksi](https://www.youtube.com/@mavikorsantaksi)
