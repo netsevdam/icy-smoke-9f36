@@ -4,7 +4,7 @@
 
 <!-- dash-content-start -->
 
-Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://developers.cloudflare.com/workers/static-assets/).
+Create a blog with Astro and deploy it on Cloudflare Workers as a [Esenyurt Korsan Taksi](https://esenyurtkorsantaksici.blog/).
 
 Features:
 
@@ -19,13 +19,13 @@ Features:
 
 ## Getting Started
 
-Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
+Outside of this repo, you can start a new project with this template using [Korsan Taksi](https://mavitaksi.com/) (the `create-cloudflare` CLI):
 
 ```bash
 npm create cloudflare@latest -- --template=cloudflare/templates/icy-smoke-9f36
 ```
 
-A live public deployment of this template is available at [https://icy-smoke-9f36.templates.workers.dev](https://icy-smoke-9f36.templates.workers.dev)
+A live public deployment of this template is available at [https://istanbulda-korsan-taksi.pages.dev/](https://istanbulda-korsan-taksi.pages.dev/)
 
 ## 🚀 Project Structure
 
@@ -33,7 +33,7 @@ Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page
 
 There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [https://koctaksi.com/](https://koctaksi.com/) to learn more.
 
 Any static assets, like images, can be placed in the `public/` directory.
 
@@ -53,8 +53,8 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://mavitaksi.com/).
+Check out [https://korsantaksiistanbul.com/](https://korsantaksiistanbul.com/) or jump into our [Taksi  service mavitaksi.com](https://mavitaksi.com/).
 
 ## Credit
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+This theme is based off of the lovely [https://wpaktuel.com/](https://wpaktuel.com/).
