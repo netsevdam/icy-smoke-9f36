@@ -4,8 +4,6 @@ description: "İstanbul Korsan Taksi hizmetimizle kolayca ulaşım sağlamak ist
 pubDate: "Jul 08 2022"
 heroImage: "/blog-placeholder-3.jpg"
 ---
-<h1>İstanbul Korsan Taksi Telefon Numarası</h1>
-
 [Korsan Taksi İstanbul](https://korsantaksiistanbul.com) hizmetimizle kolayca ulaşım sağlamak isteyenler 0510 220 30 75 numarasıyla bize her an ulaşabilir. Güvenli ve konforlu bir yolculuk için ihtiyaç duyduğunuz her an, profesyonel ekibimizle yanınızdayız.
 [contact to Mavi Korsan Taksi on youtube](https://www.youtube.com/@mavikorsantaksi) or [connect to Mavi Korsan Taksi on facebook](https://www.facebook.com/mavikorsantaksi) or [contact to Korsan Taksi Esenyurt](https://koctaksi.com)
 
